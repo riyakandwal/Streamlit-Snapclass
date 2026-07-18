@@ -164,28 +164,29 @@ Student Views Attendance
 
 ---
 
-# 📸 Application Preview
+# 📸 Screenshots
 
-| Landing Page | Student Dashboard |
-|---------------|------------------|
-| <img src="src/assets/snap-landing.png" width="100%"> | <img src="src/assets/snap-student-flow3-subject-enroll.png" width="100%"> |
+## 🏠 Landing Page
 
-| Teacher Dashboard | Manage Subjects |
-|------------------|-----------------|
-| <img src="src/assets/snap-teacher-flow2-takeattendance.png" width="100%"> | <img src="src/assets/snap-teacher-flow3-managesubjects.png" width="100%"> |
+<p align="center">
+  <img src="src/assets/snap-landing.png" alt="Landing Page" width="900">
+</p>
 
-| Create Subject | QR Enrollment |
-|---------------|---------------|
-| <img src="src/assets/snap-teacher-flow4-create-new-subject.png" width="100%"> | <img src="src/assets/snap-teacher-flow5-join-qr.png" width="100%"> |
+---
 
-| Voice Attendance | Attendance Records |
-|-----------------|--------------------|
-| <img src="src/assets/snap-teacher-flow7-voice-attendance.png" width="100%"> | <img src="src/assets/snap-teacher-flow6-attendance-record.png" width="100%"> |
+## 👨‍🎓 Student Dashboard
 
-| Upload Photos | Face Recognition |
-|---------------|------------------|
-| <img src="src/assets/snap-teacher-flow8-uploadphotos.png" width="100%"> | <img src="src/assets/snap-teacher-flow9-dashboard.png" width="100%"> |
+<p align="center">
+  <img src="src/assets/snap-student-flow3-subject-enroll.png" alt="Student Dashboard" width="900">
+</p>
 
+---
+
+## 👨‍🏫 Teacher Dashboard
+
+<p align="center">
+  <img src="src/assets/snap-teacher-flow2-takeattendance.png" alt="Teacher Dashboard" width="900">
+</p>
 ---
 
 
