@@ -15,5 +15,5 @@ segno #qr code generator
 pillow #image preprocessing
 
 
-librosa#file editing and uploading specifically audio files
+librosa #file editing and uploading specifically audio files
 resemblyzer #convert those files into embedding
